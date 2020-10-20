@@ -20,6 +20,8 @@ Upon completion, add your deliverables to git. Then commit git and push your bra
 
 ## References
 
+[Python Tuples Examples and Methods](https://www.w3schools.com/python/python_tuples.asp)
+
 [How to check if a tuple contains an element in Python?](https://stackoverflow.com/questions/17920147/how-to-check-if-a-tuple-contains-an-element-in-python)
 
 [Python Sets Examples and Methods](https://www.w3schools.com/python/python_sets.asp)
