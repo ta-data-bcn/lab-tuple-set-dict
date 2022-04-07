@@ -6,6 +6,7 @@
 
 Dicts, Sets, and Tuples are alternative data structures in Python to Lists which allow you to do different things. In this lab you will practice with these data structures and become proficient at using them.
 
+
 ## Getting Started
 
 Respond to the questions in Challenge 1, 2, and 3. Refer to the references if you are stuck.
